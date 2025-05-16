@@ -14,4 +14,14 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadSceneAsync("Minigame1");
     }
+
+    public void MoveToMenu ()
+    {
+        SceneManager.LoadSceneAsync("IdolMenu");
+    }
+
+    public void MoveToMinigame2 ()
+    {
+        SceneManager.LoadSceneAsync("Minigame2");
+    }
 }
