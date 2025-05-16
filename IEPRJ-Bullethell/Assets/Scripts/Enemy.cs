@@ -33,6 +33,8 @@ public abstract class Enemy : Stats
 
     }
 
+
+    // WE NEED TO UPDATE THIS IN THE FUTURE SUCH THAT IT MAKES USE OF NAVMESH TO AVOID OBSTACLES
     protected void MoveTowardsPlayer()
     {
         if (playerTransform == null)
@@ -42,6 +44,6 @@ public abstract class Enemy : Stats
         transform.position += (Vector3)(direction * moveSpeed * Time.deltaTime);
     }
 
-    // Abstract attack method for future enemies
+    // Abstract attack method for future enemies such as their own projectiles or an AoE attack
     public abstract void Attack();
 }

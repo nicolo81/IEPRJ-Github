@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\MeleeWep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MeleeWep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MeleeWep.cs",
+              "DocumentMoniker": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\MeleeWep.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MeleeWep.cs",
+              "ToolTip": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\MeleeWep.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MeleeWep.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:28:42.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Menu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
               "ToolTip": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Menu.cs",
               "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T11:52:13.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
