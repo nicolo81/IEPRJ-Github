@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class Stats : MonoBehaviour
 {
-    public int hp;
-    public int atk;
-    public int def;
-    public float moveSpeed;
+    [HideInInspector] public int hp;
+    [HideInInspector] public int atk;
+    [HideInInspector] public int def;
+    [HideInInspector] public float moveSpeed;
 
     // Constructor to initialize stats directly
     public void InitStats(int hp, int atk, int def, float moveSpeed)
