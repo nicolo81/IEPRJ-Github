@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MeeleWep : Weapon
+public class MeleeWep : Weapon
 {
     public GameObject slashPrefab;
     public float slashDistance;

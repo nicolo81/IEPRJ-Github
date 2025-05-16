@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3371928393989095027}
   - component: {fileID: 8729220951379470518}
-  - component: {fileID: 8440163457718826848}
+  - component: {fileID: 816057556836753558}
   m_Layer: 0
   m_Name: MeeleWep
   m_TagString: Untagged
@@ -88,7 +88,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &8440163457718826848
+--- !u!114 &816057556836753558
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -97,11 +97,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 3121051082702679066}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 254b273383051764c950e3a0050f1680, type: 3}
+  m_Script: {fileID: 11500000, guid: 5bdb489309253e04184d223e2008c599, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   interval: 2
-  player: {fileID: 0}
+  player: {fileID: 3403658249004429169, guid: 8bfe139e1df5c354db2180b74691ba74, type: 3}
   orbitRadius: 1
   slashPrefab: {fileID: 9145843955272447197, guid: bd8adbd4d7e361f45b2bd9b7a5e2f564, type: 3}
   slashDistance: 0.5

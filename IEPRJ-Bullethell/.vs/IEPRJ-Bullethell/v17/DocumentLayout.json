@@ -1,18 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\",
+  "WorkspaceRootPath": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\MeleeWep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MeleeWep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|c:\\users\\dodick\\documents\\github\\ieprj-github\\ieprj-bullethell\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|c:\\users\\dodick\\documents\\github\\ieprj-github\\ieprj-bullethell\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|c:\\users\\dodick\\documents\\github\\ieprj-github\\ieprj-bullethell\\assets\\scripts\\tankenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tankenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|c:\\users\\dodick\\documents\\github\\ieprj-github\\ieprj-bullethell\\assets\\scripts\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|c:\\users\\dodick\\documents\\github\\ieprj-github\\ieprj-bullethell\\assets\\scripts\\fastenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fastenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|c:\\users\\dodick\\documents\\github\\ieprj-github\\ieprj-bullethell\\assets\\scripts\\liwanag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\liwanag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|c:\\users\\dodick\\documents\\github\\ieprj-github\\ieprj-bullethell\\assets\\scripts\\battlemodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battlemodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|c:\\users\\dodick\\documents\\github\\ieprj-github\\ieprj-bullethell\\assets\\scripts\\dalisay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dalisay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|c:\\users\\dodick\\documents\\github\\ieprj-github\\ieprj-bullethell\\assets\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|c:\\users\\dodick\\documents\\github\\ieprj-github\\ieprj-bullethell\\assets\\scripts\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\assets\\scripts\\meleewep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\meleewep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD78BF7-8260-5112-31EF-A1DEA32810BA}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +62,179 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:20:49.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:15:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TankEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\TankEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TankEnemy.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\TankEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TankEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:13:01.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FastEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\FastEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FastEnemy.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\FastEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FastEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:12:49.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BasicEnemy.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\BasicEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BasicEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:12:15.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Liwanag.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Liwanag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Liwanag.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Liwanag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Liwanag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:00:26.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dalisay.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Dalisay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dalisay.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Dalisay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dalisay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:00:20.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Stats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:01:35.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthManager.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:51:30.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BattleModeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\BattleModeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BattleModeManager.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\BattleModeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BattleModeManager.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwCIAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:59:50.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MeleeWep.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\MeleeWep.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\MeleeWep.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MeleeWep.cs",
-              "ToolTip": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\MeleeWep.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\MeleeWep.cs",
               "RelativeToolTip": "Assets\\Scripts\\MeleeWep.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T08:28:42.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Menu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
-              "ToolTip": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Menu.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Menu.cs",
               "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:52:13.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:52:13.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\Nicolo\\Desktop\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Dodick\\Documents\\GitHub\\IEPRJ-Github\\IEPRJ-Bullethell\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T18:27:00.841Z"
+              "WhenOpened": "2025-05-14T18:27:00.841Z",
+              "EditorCaption": ""
             }
           ]
         }
