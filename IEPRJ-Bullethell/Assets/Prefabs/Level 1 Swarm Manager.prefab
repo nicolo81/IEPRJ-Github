@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: acd089576826fdc468891a730be332b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  basicEnemyPrefab: {fileID: 1255241234114275885, guid: 0543b2eb62dd00948af2b0a2e20707a4, type: 3}
+  basicEnemyPrefab: {fileID: 1255241234114275885, guid: 181683afbd3d443419c9a39ccc1cb715, type: 3}
   fastEnemyPrefab: {fileID: 1255241234114275885, guid: 43fec03f25e631f49b9d0ab7c49bceab, type: 3}
   tankEnemyPrefab: {fileID: 1255241234114275885, guid: 991e89e1a147edb4dabee0b85f1d34f1, type: 3}
   spawnRadius: 10
